@@ -1,5 +1,7 @@
 ---
-title: "sjwerts.github.io"
+title: "Welcome to my page!"
+about: 
+    template: trestles
 ---
 
 This is a Quarto website.

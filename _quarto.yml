@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "sjwerts.github.io"
+  title: "Samantha J. Werts, MPH"
   navbar:
     left:
       - href: index.qmd
