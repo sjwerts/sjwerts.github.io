@@ -1,7 +1,12 @@
 ---
 title: "Welcome to my page!"
+image: Werts_headshot.jpg
 about: 
     template: trestles
+    image-shape: rounded
+    links:
+    - text: Email
+      href: mailto:swerts@arizona.edu
 ---
 
 This is a Quarto website.
