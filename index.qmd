@@ -5,8 +5,9 @@ about:
     template: trestles
     image-shape: rounded
     links:
-    - text: Email
-      href: mailto:swerts@arizona.edu
+      - icon: envelope
+        text: Email
+        href: mailto:swerts@arizona.edu
 ---
 
 This is a Quarto website.
