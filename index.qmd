@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my page!"
+title: "Samantha Werts, MPH"
 image: images/Werts_Headshot.jpg
 about: 
     template: trestles
@@ -16,4 +16,16 @@ about:
         href: mailto:swerts@arizona.edu
 ---
 
+### Welcome to my page!
 
+My name is Sam and I am a PhD candidate in the Mel and Enid Zuckerman College of Public Health at the University of Arizona. 
+
+---
+
+### Education
+
+---
+
+### Experience
+
+---

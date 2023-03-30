@@ -3,12 +3,22 @@ project:
   output-dir: docs
 
 website:
-  title: "Samantha J. Werts, MPH"
+  title: "Samantha J. Werts"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: research.qmd
+        text: Research
+      - href: presentations.qmd
+        text: Presentations
+      - href: teaching.qmd
+        text: Teaching
+  page-footer:
+    background: light
+    left:
+      - "Copyright 2023, Samantha Werts"
 
 format:
   html:
