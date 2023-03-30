@@ -13,6 +13,8 @@ website:
         text: Research
       - href: presentations.qmd
         text: Presentations
+      - href: publications.qmd
+        text: Publications
       - href: teaching.qmd
         text: Teaching
   page-footer:
